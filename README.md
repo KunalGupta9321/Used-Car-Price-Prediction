@@ -287,7 +287,7 @@ This demonstrates that the saved pipeline can accept new vehicle specifications 
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/KunalGupta9321/Used-Car-Price-Prediction
 ```
 
 ### 2. Navigate to the Project Directory
