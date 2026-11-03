@@ -156,7 +156,7 @@ The project includes several visualizations to understand the distribution of us
 
 #### Manufacturing Year vs Selling Price
 
-![Year vs Selling Price](reports/figures/year_vs_selling_price.png)
+![Year vs Selling Price](reports/figures/manufacturing_year_vs_selling_price.png)
 
 #### Kilometres Driven vs Selling Price
 
